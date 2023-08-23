@@ -1,0 +1,302 @@
+[
+ {
+    "startDate": "01-02-2021 15:30:00",
+    "endDate": "01-02-2021 16:30:00",
+    "capacity": "70",
+    "hallName": "Hall-B"
+  },
+  {
+    "startDate": "02-02-2021 14:00:00",
+    "endDate": "02-02-2021 15:00:00",
+    "capacity": "50",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "03-02-2021 16:30:00",
+    "endDate": "03-02-2021 17:30:00",
+    "capacity": "100",
+    "hallName": "Hall-C"
+  },
+  {
+    "startDate": "04-02-2021 11:45:00",
+    "endDate": "04-02-2021 12:45:00",
+    "capacity": "40",
+    "hallName": "Hall-D"
+  },
+   {
+    "startDate": "05-02-2021 13:15:00",
+    "endDate": "05-02-2021 14:15:00",
+    "capacity": "60",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "01-02-2021 15:30:00",
+    "endDate": "01-02-2021 16:30:00",
+    "capacity": "70",
+    "hallName": "Hall-B"
+  },
+  {
+    "startDate": "02-02-2021 14:00:00",
+    "endDate": "02-02-2021 15:00:00",
+    "capacity": "50",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "03-02-2021 16:30:00",
+    "endDate": "03-02-2021 17:30:00",
+    "capacity": "100",
+    "hallName": "Hall-C"
+  },
+  {
+    "startDate": "04-02-2021 11:45:00",
+    "endDate": "04-02-2021 12:45:00",
+    "capacity": "40",
+    "hallName": "Hall-D"
+  },
+  {
+    "startDate": "05-02-2021 13:15:00",
+    "endDate": "05-02-2021 14:15:00",
+    "capacity": "60",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "06-02-2021 10:30:00",
+    "endDate": "06-02-2021 11:30:00",
+    "capacity": "80",
+    "hallName": "Hall-B"
+  },
+  {
+    "startDate": "15-05-2021 09:00:00",
+    "endDate": "15-05-2021 10:00:00",
+    "capacity": "90",
+    "hallName": "Hall-C"
+  },
+  {
+    "startDate": "16-05-2021 16:45:00",
+    "endDate": "16-05-2021 17:45:00",
+    "capacity": "55",
+    "hallName": "Hall-D"
+  },
+  {
+    "startDate": "17-05-2021 14:30:00",
+    "endDate": "17-05-2021 15:30:00",
+    "capacity": "70",
+    "hallName": "Hall-A"
+  },{
+    "startDate": "19-05-2021 08:15:00",
+    "endDate": "19-05-2021 09:15:00",
+    "capacity": "65",
+    "hallName": "Hall-C"
+  },
+  {
+    "startDate": "20-05-2021 14:30:00",
+    "endDate": "20-05-2021 15:30:00",
+    "capacity": "75",
+    "hallName": "Hall-D"
+  },
+  {
+    "startDate": "21-05-2021 16:00:00",
+    "endDate": "21-05-2021 17:00:00",
+    "capacity": "50",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "22-05-2021 11:30:00",
+    "endDate": "22-05-2021 12:30:00",
+    "capacity": "90",
+    "hallName": "Hall-B"
+  },
+  {
+    "startDate": "23-05-2021 13:45:00",
+    "endDate": "23-05-2021 14:45:00",
+    "capacity": "60",
+    "hallName": "Hall-C"
+    },
+    {
+    "startDate": "24-05-2021 09:30:00",
+    "endDate": "24-05-2021 10:30:00",
+    "capacity": "55",
+    "hallName": "Hall-D"
+  },
+  {
+    "startDate": "25-05-2021 10:00:00",
+    "endDate": "25-05-2021 11:00:00",
+    "capacity": "40",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "26-05-2021 12:45:00",
+    "endDate": "26-05-2021 13:45:00",
+    "capacity": "85",
+    "hallName": "Hall-B"
+  },
+  {
+    "startDate": "27-05-2021 15:30:00",
+    "endDate": "27-05-2021 16:30:00",
+    "capacity": "70",
+    "hallName": "Hall-C"
+  },
+  {
+    "startDate": "28-05-2021 14:00:00",
+    "endDate": "28-05-2021 15:00:00",
+    "capacity": "50",
+    "hallName": "Hall-D"
+  },
+  {
+    "startDate": "29-05-2021 16:30:00",
+    "endDate": "29-05-2021 17:30:00",
+    "capacity": "100",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "30-05-2021 11:45:00",
+    "endDate": "30-05-2021 12:45:00",
+    "capacity": "40",
+    "hallName": "Hall-B"
+  },
+  {
+    "startDate": "31-05-2021 13:15:00",
+    "endDate": "31-05-2021 14:15:00",
+    "capacity": "60",
+    "hallName": "Hall-C"
+  },
+  {
+    "startDate": "01-06-2021 10:30:00",
+    "endDate": "01-06-2021 11:30:00",
+    "capacity": "80",
+    "hallName": "Hall-D"
+  },
+  {
+    "startDate": "02-06-2021 09:00:00",
+    "endDate": "02-06-2021 10:00:00",
+    "capacity": "90",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "03-06-2021 16:45:00",
+    "endDate": "03-06-2021 17:45:00",
+    "capacity": "55",
+    "hallName": "Hall-B"
+  },
+  {
+    "startDate": "04-06-2021 14:30:00",
+    "endDate": "04-06-2021 15:30:00",
+    "capacity": "70",
+    "hallName": "Hall-C"
+  },
+  {
+    "startDate": "05-06-2021 12:00:00",
+    "endDate": "05-06-2021 13:00:00",
+    "capacity": "45",
+    "hallName": "Hall-D"
+  },
+  {
+    "startDate": "06-06-2021 08:15:00",
+    "endDate": "06-06-2021 09:15:00",
+    "capacity": "65",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "07-06-2021 14:30:00",
+    "endDate": "07-06-2021 15:30:00",
+    "capacity": "75",
+    "hallName": "Hall-B"
+  },
+  {
+    "startDate": "08-06-2021 16:00:00",
+    "endDate": "08-06-2021 17:00:00",
+    "capacity": "50",
+    "hallName": "Hall-C"
+  },
+  {
+    "startDate": "09-06-2021 11:30:00",
+    "endDate": "09-06-2021 12:30:00",
+    "capacity": "90",
+    "hallName": "Hall-D"
+  },
+  {
+    "startDate": "10-06-2021 13:45:00",
+    "endDate": "10-06-2021 14:45:00",
+    "capacity": "60",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "11-06-2021 09:30:00",
+    "endDate": "11-06-2021 10:30:00",
+    "capacity": "55",
+    "hallName": "Hall-B"
+  },
+  {
+    "startDate": "12-06-2021 10:00:00",
+    "endDate": "12-06-2021 11:00:00",
+    "capacity": "40",
+    "hallName": "Hall-C"
+  },
+  {
+    "startDate": "13-06-2021 12:45:00",
+    "endDate": "13-06-2021 13:45:00",
+    "capacity": "85",
+    "hallName": "Hall-D"
+  },
+  {
+    "startDate": "14-06-2021 15:30:00",
+    "endDate": "14-06-2021 16:30:00",
+    "capacity": "70",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "16-06-2021 16:30:00",
+    "endDate": "16-06-2021 17:30:00",
+    "capacity": "100",
+    "hallName": "Hall-C"
+  },
+  {
+    "startDate": "17-06-2021 11:45:00",
+    "endDate": "17-06-2021 12:45:00",
+    "capacity": "40",
+    "hallName": "Hall-D"
+  },
+  {
+    "startDate": "18-06-2021 13:15:00",
+    "endDate": "18-06-2021 14:15:00",
+    "capacity": "60",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "19-06-2021 10:30:00",
+    "endDate": "19-06-2021 11:30:00",
+    "capacity": "80",
+    "hallName": "Hall-B"
+  },
+  {
+    "startDate": "20-06-2021 09:00:00",
+    "endDate": "20-06-2021 10:00:00",
+    "capacity": "90",
+    "hallName": "Hall-C"
+    },{
+    "startDate": "22-06-2021 14:30:00",
+    "endDate": "22-06-2021 15:30:00",
+    "capacity": "70",
+    "hallName": "Hall-A"
+  },
+  {
+    "startDate": "23-06-2021 12:00:00",
+    "endDate": "23-06-2021 13:00:00",
+    "capacity": "45",
+    "hallName": "Hall-B"
+  },
+  {
+    "startDate": "24-06-2021 08:15:00",
+    "endDate": "24-06-2021 09:15:00",
+    "capacity": "65",
+    "hallName": "Hall-C"
+  },
+  {
+    "startDate": "25-06-2021 14:30:00",
+    "endDate": "25-06-2021 15:30:00",
+    "capacity": "75",
+    "hallName": "Hall-D"
+  }
+    
+  
+]
